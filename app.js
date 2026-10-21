@@ -3,7 +3,7 @@ const categories = [
   { id: 1, name: 'Vestidos', icon: '👗' },
   { id: 2, name: 'Blusas', icon: '👚' },
   { id: 3, name: 'Pantalones', icon: '👖' },
-  { id: 4, name: 'Bolsas', icon: '' },
+  { id: 4, name: 'Bolsas', icon: '👜' },
   { id: 5, name: 'Zapatos', icon: '👠' },
 ];
 
